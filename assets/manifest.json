@@ -593,6 +593,94 @@
       "size": 51324,
       "sha256": "08da1d083d36ccda4a5bf48204ee4378434f8584e726062c63e519c6b05a1a09"
     },
+    "assets/town/events/beerDay.webp": {
+      "size": 307070,
+      "sha256": "4d7b194d6d09fa6f06465070c8c678c02d6a379d9646ee958347f057b062cf07"
+    },
+    "assets/town/events/bigGameSunday.webp": {
+      "size": 230242,
+      "sha256": "454073bf401a0805ff741d99992148a8bee9933a778c8ebb5d560dfa85eb9f56"
+    },
+    "assets/town/events/bourbonDay.webp": {
+      "size": 263420,
+      "sha256": "a368d1f4ef16f6a05c03bbb9b02342492a15e2e39604bd0a2b960d704ad5dee1"
+    },
+    "assets/town/events/christmas.webp": {
+      "size": 391930,
+      "sha256": "296ef682135311a766eaca1fde3b96294a328a7ddb8ddc5269284b244741aaec"
+    },
+    "assets/town/events/cincoDeMayo.webp": {
+      "size": 229728,
+      "sha256": "6fd47448eef674af3d5c3249bf6f34e9abd85f94e66dbd23dc3c1dd2c94e07a9"
+    },
+    "assets/town/events/fourthOfJuly.webp": {
+      "size": 218448,
+      "sha256": "b4cdc69e261ddbac68ae9da061ba6465fd008595f09f74c5450a2f1ec9bdd60a"
+    },
+    "assets/town/events/friendBirthday.webp": {
+      "size": 247568,
+      "sha256": "7ba23b2af198c402147e308f9ef376468a8b7631292dbc79163ff9a40ee1bcbf"
+    },
+    "assets/town/events/ginDay.webp": {
+      "size": 260432,
+      "sha256": "3243fa58887bd49c3fae8384ecbbfbc226fb75323ecea2ba3002c82746fac7ca"
+    },
+    "assets/town/events/halloween.webp": {
+      "size": 303718,
+      "sha256": "e777b03653aaeaac1d5d7b955a01fb6d076f843f77342056ec537fda41e9f570"
+    },
+    "assets/town/events/laborDayWeekend.webp": {
+      "size": 353402,
+      "sha256": "44a29b1840191c88d9a7c80e6f3ef489bb82ee50742afed398a391cb36512f84"
+    },
+    "assets/town/events/mardiGras.webp": {
+      "size": 274752,
+      "sha256": "4427c9476feefb4cc2d9b854b62cac2ebcbf1da24a7593d9b0b57b906afdc7c5"
+    },
+    "assets/town/events/memorialDayWeekend.webp": {
+      "size": 210720,
+      "sha256": "41eaf537f06a5349b62c6510d759b4cc8c400344f80daaa1ea7c82265b5a0e99"
+    },
+    "assets/town/events/newYearsEve.webp": {
+      "size": 377240,
+      "sha256": "0a07ec40cfdc885f5494b44537dca9b8af3cc98027423fe87b22a7271b86edee"
+    },
+    "assets/town/events/oktoberfest.webp": {
+      "size": 251570,
+      "sha256": "265350693e780e5409fffb2e7e059e415cb62db00603e431564540ded56ebbf8"
+    },
+    "assets/town/events/repealDay.webp": {
+      "size": 360642,
+      "sha256": "598857ac40b27084d956edceb7f685b7fe2e98f071a960a908c35399a87f2d9f"
+    },
+    "assets/town/events/rumDay.webp": {
+      "size": 231234,
+      "sha256": "0692a357ce5d05c4e1e22af82dc6935e08e8babf990951677d60c7a1412e85eb"
+    },
+    "assets/town/events/stPatricks.webp": {
+      "size": 291760,
+      "sha256": "543a16b4276dde55b0fe75511b4a01a6fea8e7d0f7e8d25c0cf7c754415156fe"
+    },
+    "assets/town/events/tequilaDay.webp": {
+      "size": 258436,
+      "sha256": "53b3145810238cf8df0050cb921fc76b35c1e9bfb3473ee6ac1690859a36f1df"
+    },
+    "assets/town/events/thanksgiving.webp": {
+      "size": 334640,
+      "sha256": "398af8e8b04cc025df0688d34d55f34356b72386bcde4de6745f8605257543bb"
+    },
+    "assets/town/events/valentines.webp": {
+      "size": 249564,
+      "sha256": "da4894fb1c2d0c929fe889524cc6612041ff201c73cc0403ed6b81160bc15ba7"
+    },
+    "assets/town/events/vodkaDay.webp": {
+      "size": 268512,
+      "sha256": "41609c285438c973f596379b9399a42110947c2c2c3823dbd345fa2b16d05615"
+    },
+    "assets/town/events/wineDay.webp": {
+      "size": 297528,
+      "sha256": "06257d309f40e4b3b1a7d215cd7d4342629b2bee89e544e733859d0031394243"
+    },
     "assets/town/tiles/tile-bridge.webp": {
       "size": 68320,
       "sha256": "05a58e604128ffa7c3640fd33660bad118f0dd22b7c146e8a74df4662d9c031b"
